@@ -1,0 +1,104 @@
+[
+  {
+    "timestamp": "2020-08-06T15:00:00.000+02:00",
+    "title": "How to draw furries",
+    "people": [
+      {
+        "name": "Martin Moderator",
+        "avatar": "martin.png"
+      },
+      {
+        "name": "Alison Artist",
+        "avatar": "alison.png"
+      }
+    ],
+    "media": [
+      {
+        "thumb": "1-thumb.jpg",
+        "src": "1.jpg",
+        "caption": "Image 1"
+      },
+      {
+        "thumb": "2-thumb.jpg",
+        "src": "2.jpg",
+        "caption": "Image 2"
+      },
+      {
+        "thumb": "3-thumb.jpg",
+        "src": "3.jpg",
+        "caption": "Image 3"
+      }
+    ],
+    "desc": "Lorem ipsum dolor sit amet",
+    "descLong": "Repudiandae dolor sed minima. Ad nobis mollitia illum rerum quia qui neque. Unde quo natus voluptatem. Optio sit sit cupiditate consequuntur iusto magni libero ut. Sint necessitatibus maxime praesentium totam natus architecto fuga. Mollitia ipsam necessitatibus eius. Dignissimos est et vel soluta assumenda. Ea temporibus dolores quia possimus quam sed unde est. Similique et aliquam recusandae debitis libero et similique. Ut non quia officia numquam fugit omnis nisi."
+  },
+  {
+    "timestamp": "2020-08-06T16:00:00.000+02:00",
+    "title": "Knowing when it's time to Laden...",
+    "people": ["Cheetah"],
+    "media": [
+      {
+        "thumb": "/assets/img/3-thumb.jpg",
+        "src": "/assets/img/3.jpg"
+      }
+    ],
+    "desc": "Lorem ipsum dolor sit amet",
+    "descLong": ""
+  },
+  {
+    "timestamp": "2020-08-06T17:00:00.000+02:00",
+    "title": "I'm not a furry, but...",
+    "people": ["Netflix", "BNA", "Beastars"],
+    "media": [],
+    "desc": "Lorem ipsum dolor sit amet",
+    "descLong": ""
+  },
+  {
+    "timestamp": "2020-08-07T15:00:00+02:00",
+    "title": "Banana for scale — getting proportions right",
+    "people": ["Martin Moderator", "Alison Artist"],
+    "media": [],
+    "desc": "Lorem ipsum dolor sit amet",
+    "descLong": ""
+  },
+  {
+    "timestamp": "2020-08-07T16:00:00.000+02:00",
+    "title": "Stickers — Going OwOboard",
+    "people": ["Telegram"],
+    "media": [],
+    "desc": "Notices your sticker pack",
+    "descLong": ""
+  },
+  {
+    "timestamp": "2020-08-07T18:00:00.000+02:00",
+    "title": "How to be a Good Boi",
+    "people": ["George GShep"],
+    "media": [],
+    "desc": "Lorem ipsum dolor sit amet",
+    "descLong": ""
+  },
+  {
+    "timestamp": "2020-08-08T15:00:00.000+02:00",
+    "title": "Games by Furries, for Furries",
+    "people": ["ShadowFox1337"],
+    "media": [],
+    "desc": "Lorem ipsum dolor sit amet",
+    "descLong": ""
+  },
+  {
+    "timestamp": "2020-08-08T16:00:00.000+02:00",
+    "title": "Yaasss Queen! — Taking good care of your fur",
+    "people": ["Fashionista Fennec"],
+    "media": [],
+    "desc": "Lorem ipsum dolor sit amet",
+    "descLong": ""
+  },
+  {
+    "timestamp": "2020-08-08T17:00:00.000+02:00",
+    "title": "Congrats, you're old — being furry 40 and up",
+    "people": ["Gustav Greymuzzle"],
+    "media": [],
+    "desc": "Lorem ipsum dolor sit amet",
+    "descLong": ""
+  }
+]
