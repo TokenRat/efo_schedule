@@ -3,9 +3,14 @@
     "timestamp": "2020-08-21T17:30:00.000+02:00",
     "title": "Opening Ceremony",
     "people": [
-      "Cheetah",
-      "Jyanon",
-      "//TODO who?"
+      {
+        "name": "Cheetah",
+        "avatar": "cheetah.jpg"
+      },
+      {
+        "name": "Jyanon",
+        "avatar": "jyanon.jpg"
+      }
     ],
     "media": [],
     "desc": "Eurofurence Online opening ceremony",
@@ -15,21 +20,31 @@
     "timestamp": "2020-08-21T18:45:00.000+02:00",
     "title": "Time with our Guest of Honor",
     "people": [
-      "JoJo",
-      "//TODO real name here? JoJo or Jojo, also desc below.",
-      "AlectorFencer"
+      {
+        "name": "Jonas Jödicke / Jojoe",
+        "avatar": "jojoe.jpg"
+      },
+      {
+        "name": "AlectorFencer",
+        "avarar": "alector.jpg"
+      }
     ],
     "media": [],
-    "desc": "Have a chance to meet our guest of honor, JoJo. //TODO",
+    "desc": "Get a chance to meet and chat with Jonas Jodicke. A talented artist from Berlin who draws fantasy and spiritual art. Check out https://www.instagram.com/jojoesart to see more.",
     "descLong": ""
   },
   {
     "timestamp": "2020-08-21T20:00:00.000+02:00",
     "title": "Foxes and Peppers Plugged in",
     "people": [
-      "Fox Amore",
-      "Pepper Coyote",
-      "//TODO"
+      {
+        "name": "Fox Amoore",
+        "avatar": "foxamoore.jpg"
+      },
+      {
+        "name": "Pepper Coyote",
+        "avatar": "pepper.jpg"
+      }
     ],
     "media": [],
     "desc": "",
@@ -39,7 +54,10 @@
     "timestamp": "2020-08-21T21:45:00.000+02:00",
     "title": "Kage Story Hour",
     "people": [
-      "Kage //TODO full name?, Wrote him an email"
+      {
+        "name": "Uncle Kage",
+        "avatar": "kage.jpg"
+      }
     ],
     "media": [],
     "desc": "",
@@ -49,7 +67,9 @@
     "timestamp": "2020-08-21T23:00:00.000+02:00",
     "title": "Furscience",
     "people": [
-      "//TODO"
+      {
+        "name": "Malicious Beaver"
+      }
     ],
     "media": [],
     "desc": "",
@@ -59,7 +79,10 @@
     "timestamp": "2020-08-22T23:00:00.000+02:00",
     "title": "Puppet crafting with Tioh",
     "people": [
-      "Tioh"
+      {
+        "name": "Tioh",
+        "avatar": "tioh.jpg"
+      }
     ],
     "media": [],
     "desc": "",
@@ -68,9 +91,7 @@
   {
     "timestamp": "2020-08-22T13:00:00.000+02:00",
     "title": "Animal training with CPF",
-    "people": [
-      ""
-    ],
+    "people": [],
     "media": [],
     "desc": "",
     "descLong": ""
@@ -79,7 +100,10 @@
     "timestamp": "2020-08-22T14:15:00.000+02:00",
     "title": "Nailed it! - The Artist Challenge",
     "people": [
-      "Jyanon"
+      {
+        "name": "Jyanon",
+        "avatar": "jyanon.jpg"
+      }
     ],
     "media": [],
     "desc": "",
@@ -88,9 +112,7 @@
   {
     "timestamp": "2020-08-22T16:00:00.000+02:00",
     "title": "Welcome to the Pawpet Show",
-    "people": [
-      ""
-    ],
+    "people": [],
     "media": [],
     "desc": "",
     "descLong": ""
@@ -98,9 +120,7 @@
   {
     "timestamp": "2020-08-22T16:30:00.000+02:00",
     "title": "Pawpet Show - Skies of Astar",
-    "people": [
-      ""
-    ],
+    "people": [],
     "media": [],
     "desc": "",
     "descLong": ""
@@ -108,9 +128,7 @@
   {
     "timestamp": "2020-08-22T19:15:00.000+02:00",
     "title": "Meet the Main Cast behind Skies of Aster",
-    "people": [
-      ""
-    ],
+    "people": [],
     "media": [],
     "desc": "",
     "descLong": ""
@@ -118,9 +136,7 @@
   {
     "timestamp": "2020-08-22T20:30:00.000+02:00",
     "title": "VirtualFurence Dance Competition",
-    "people": [
-      ""
-    ],
+    "people": [],
     "media": [],
     "desc": "",
     "descLong": ""
@@ -129,19 +145,17 @@
     "timestamp": "2020-08-22T22:45:00.000+02:00",
     "title": "Eurofruence Online DJ LineUp",
     "people": [
-      "DJ Sippo",
-      "Kana",
-      "BBF"
-    ],
-    "media": [],
-    "desc": "",
-    "descLong": ""
-  },
-  {
-    "timestamp": "2020-08-22T:00:00.000+02:00",
-    "title": "",
-    "people": [
-      ""
+      {
+        "name": "DJ Sippo"
+      },
+      {
+        "name": "Kana",
+        "avatar": "kana.jpg"
+      },
+      {
+        "name": "BBF",
+        "avatar": "bbf.jpg"
+      }
     ],
     "media": [],
     "desc": "",
@@ -150,9 +164,7 @@
   {
     "timestamp": "2020-08-23T13:00:00.000+02:00",
     "title": "Spheric Worlds 3 - Ambient Concert",
-    "people": [
-      ""
-    ],
+    "people": [],
     "media": [],
     "desc": "",
     "descLong": ""
@@ -161,8 +173,22 @@
     "timestamp": "2020-08-23T14:15:00.000+02:00",
     "title": "You write a script, and then shit happens - A Pawpet Show Production",
     "people": [
-      "Cheetah",
-      "Haku"
+      {
+        "name": "Cheetah",
+        "avatar": "cheetah.jpg"
+      },
+      {
+        "name": "Reesa",
+        "avatar": "reesa.jpg"
+      },
+      {
+        "name": "Haku",
+        "avatar": "haku.jpg"
+      },
+      {
+        "name": "Liam",
+        "avatar": "liam.jpg"
+      }
     ],
     "media": [],
     "desc": "",
@@ -171,9 +197,7 @@
   {
     "timestamp": "2020-08-23T16:00:00.000+02:00",
     "title": "Meet the charity! Live with CPF",
-    "people": [
-      ""
-    ],
+    "people": [],
     "media": [],
     "desc": "",
     "descLong": ""
@@ -181,9 +205,7 @@
   {
     "timestamp": "2020-08-23T17:15:00.000+02:00",
     "title": "VirtualFurence - How to make a virtual convention space",
-    "people": [
-      ""
-    ],
+    "people": [],
     "media": [],
     "desc": "",
     "descLong": ""
@@ -192,8 +214,14 @@
     "timestamp": "2020-08-23T19:30:00.000+02:00",
     "title": "Convention War Stories told by Cheetah and Kage",
     "people": [
-      "Cheetah",
-      "Uncle Kage"
+      {
+        "name": "Cheetah",
+        "avatar": "cheetah.jpg"
+      },
+      {
+        "name": "Uncle Kage",
+        "avatar": "kage.jpg"
+      }
     ],
     "media": [],
     "desc": "",
@@ -203,8 +231,10 @@
     "timestamp": "2020-08-23T21:00:00.000+02:00",
     "title": "Q&A - Virtual Conventions \"Will they stay?\"",
     "people": [
-      "Jyanon",
-      "TODO"
+      {
+        "name": "Jyanon",
+        "avatar": "jyanon.jpg"
+      }
     ],
     "media": [],
     "desc": "",
@@ -214,7 +244,10 @@
     "timestamp": "2020-08-23T22:30:00.000+02:00",
     "title": "Closing Ceremony",
     "people": [
-      ""
+      {
+        "name": "Jyanon",
+        "avatar": "jyanon.jpg"
+      }
     ],
     "media": [],
     "desc": "",
