@@ -237,7 +237,16 @@
         "avatar": "zeor.jpg"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "thumb": "/assets/img/spheric_worlds_3_01-thumb.jpg",
+        "src": "/assets/img/spheric_worlds_3_01.jpg"
+      },
+      {
+        "thumb": "/assets/img/spheric_worlds_3_02-thumb.jpg",
+        "src": "/assets/img/spheric_worlds_3_02.jpg"
+      }
+    ],
     "desc": "Live Ambient synth concert. Zeor Karethran is going to take you on a journey through space again. This time, his synthesizer orchestra stays at his studio and you can follow him through the EFO web stream. Let's travel to the Spheric Worlds on the waves of sound. Sit back, relax and enjoy an hour of live ambient sounds.",
     "descLong": ""
   },
