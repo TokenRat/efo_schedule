@@ -231,7 +231,12 @@
   {
     "timestamp": "2020-08-23T13:00:00.000+02:00",
     "title": "Spheric Worlds 3 - Ambient Concert",
-    "people": [],
+    "people": [
+      {
+        "name": "Zeor Karethran",
+        "avatar": "zeor.jpg"
+      }
+    ],
     "media": [],
     "desc": "",
     "descLong": ""
