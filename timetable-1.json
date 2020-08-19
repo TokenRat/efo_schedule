@@ -210,15 +210,33 @@
   },
   {
     "timestamp": "2020-08-22T22:45:00.000+02:00",
-    "title": "Eurofruence Online DJ LineUp",
+    "title": "DJ Sippo - EFO DJ LineUp",
     "people": [
       {
         "name": "DJ Sippo"
-      },
+      }
+    ],
+    "media": [],
+    "desc": "",
+    "descLong": ""
+  },
+  {
+    "timestamp": "2020-08-22T23:45:00.000+02:00",
+    "title": "Kana - EFO DJ LineUp",
+    "people": [
       {
         "name": "Kana",
         "avatar": "kana.jpg"
-      },
+      }
+    ],
+    "media": [],
+    "desc": "",
+    "descLong": ""
+  },
+  {
+    "timestamp": "2020-08-23T00:45:00.000+02:00",
+    "title": "BBF - EFO DJ LineUp",
+    "people": [
       {
         "name": "BBF",
         "avatar": "bbf.jpg"
