@@ -12,7 +12,12 @@
         "avatar": "jyanon.jpg"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "thumb": "/assets/img/EFO_Opening-thumb.jpg",
+        "src": "/assets/img/EFO_Opening.jpg"
+      }
+    ],
     "desc": "Eurofurence Online opening ceremony",
     "descLong": ""
   },
@@ -138,7 +143,11 @@
         "name": "Malicious Beaver"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "thumb": "/assets/img/furscience-thumb.jpg",
+        "src": "/assets/img/furscience.jpg"
+      }],
     "desc": "",
     "descLong": ""
   },
@@ -151,7 +160,11 @@
         "avatar": "tioh.jpg"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "thumb": "/assets/img/puppet_panel-thumb.jpg",
+        "src": "/assets/img/puppet_panel.jpg"
+      }],
     "desc": "",
     "descLong": ""
   },
@@ -204,7 +217,12 @@
     "timestamp": "2020-08-22T20:30:00.000+02:00",
     "title": "VirtualFurence Dance Competition",
     "people": [],
-    "media": [],
+    "media": [
+      {
+        "thumb": "/assets/img/DanceContest-thumb.jpg",
+        "src": "/assets/img/DanceContest.jpg"
+      }
+    ],
     "desc": "",
     "descLong": ""
   },
@@ -287,7 +305,11 @@
     "timestamp": "2020-08-23T17:15:00.000+02:00",
     "title": "VirtualFurence - How to make a virtual convention space",
     "people": [],
-    "media": [],
+    "media": [
+      {
+        "thumb": "/assets/img/VirtualFurence-thumb.jpg",
+        "src": "/assets/img/VirtualFurence.jpg"
+      }],
     "desc": "",
     "descLong": ""
   },
@@ -330,7 +352,12 @@
         "avatar": "jyanon.jpg"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "thumb": "/assets/img/EFO_Closing-thumb.jpg",
+        "src": "/assets/img/EFO_Closing.jpg"
+      }
+    ],
     "desc": "",
     "descLong": ""
   }
