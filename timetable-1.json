@@ -35,7 +35,70 @@
   },
   {
     "timestamp": "2020-08-21T20:00:00.000+02:00",
-    "title": "Foxes and Peppers Plugged in",
+    "title": "Fox Amoore - Foxes and Peppers Plugged in",
+    "people": [
+      {
+        "name": "Fox Amoore",
+        "avatar": "foxamoore.jpg"
+      },
+      {
+        "name": "Pepper Coyote",
+        "avatar": "pepper.jpg"
+      },
+      {
+        "name": "Cosmik & Rhubarb and friends",
+        "avatar": "cosmik.png"
+      }
+    ],
+    "media": [],
+    "desc": "",
+    "descLong": ""
+  },
+  {
+    "timestamp": "2020-08-21T20:25:00.000+02:00",
+    "title": "Pepper Coyote - Foxes and Peppers Plugged in",
+    "people": [
+      {
+        "name": "Fox Amoore",
+        "avatar": "foxamoore.jpg"
+      },
+      {
+        "name": "Pepper Coyote",
+        "avatar": "pepper.jpg"
+      },
+      {
+        "name": "Cosmik & Rhubarb and friends",
+        "avatar": "cosmik.png"
+      }
+    ],
+    "media": [],
+    "desc": "",
+    "descLong": ""
+  },
+  {
+    "timestamp": "2020-08-21T20:50:00.000+02:00",
+    "title": "Cosmik&Rhubarb - Foxes and Peppers Plugged in",
+    "people": [
+      {
+        "name": "Fox Amoore",
+        "avatar": "foxamoore.jpg"
+      },
+      {
+        "name": "Pepper Coyote",
+        "avatar": "pepper.jpg"
+      },
+      {
+        "name": "Cosmik & Rhubarb and friends",
+        "avatar": "cosmik.png"
+      }
+    ],
+    "media": [],
+    "desc": "",
+    "descLong": ""
+  },
+  {
+    "timestamp": "2020-08-21T21:15:00.000+02:00",
+    "title": "Video Surprise - Foxes and Peppers Plugged in",
     "people": [
       {
         "name": "Fox Amoore",
