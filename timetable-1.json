@@ -12,7 +12,12 @@
         "avatar": "jyanon.jpg"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "thumb": "img/events/EFO_Opening-thumb.jpg",
+        "src": "img/events/EFO_Opening.jpg"
+      }
+    ],
     "desc": "Eurofurence Online opening ceremony",
     "descLong": ""
   },
@@ -138,7 +143,11 @@
         "name": "Malicious Beaver"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "thumb": "img/events/furscience-thumb.jpg",
+        "src": "img/events/furscience.jpg"
+      }],
     "desc": "",
     "descLong": ""
   },
@@ -151,7 +160,11 @@
         "avatar": "tioh.jpg"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "thumb": "img/events/puppet_panel-thumb.jpg",
+        "src": "img/events/puppet_panel.jpg"
+      }],
     "desc": "",
     "descLong": ""
   },
@@ -204,7 +217,12 @@
     "timestamp": "2020-08-22T20:30:00.000+02:00",
     "title": "VirtualFurence Dance Competition",
     "people": [],
-    "media": [],
+    "media": [
+      {
+        "thumb": "img/events/DanceContest-thumb.jpg",
+        "src": "img/events/DanceContest.jpg"
+      }
+    ],
     "desc": "",
     "descLong": ""
   },
@@ -257,12 +275,12 @@
     ],
     "media": [
       {
-        "thumb": "/assets/img/spheric_worlds_3_01-thumb.jpg",
-        "src": "/assets/img/spheric_worlds_3_01.jpg"
+        "thumb": "img/events/spheric_worlds_3_01-thumb.jpg",
+        "src": "img/events/spheric_worlds_3_01.jpg"
       },
       {
-        "thumb": "/assets/img/spheric_worlds_3_02-thumb.jpg",
-        "src": "/assets/img/spheric_worlds_3_02.jpg"
+        "thumb": "img/events/spheric_worlds_3_02-thumb.jpg",
+        "src": "img/events/spheric_worlds_3_02.jpg"
       }
     ],
     "desc": "Live Ambient synth concert. Zeor Karethran is going to take you on a journey through space again. This time, his synthesizer orchestra stays at his studio and you can follow him through the EFO web stream. Let's travel to the Spheric Worlds on the waves of sound. Sit back, relax and enjoy an hour of live ambient sounds.",
@@ -305,7 +323,11 @@
     "timestamp": "2020-08-23T17:15:00.000+02:00",
     "title": "VirtualFurence - How to make a virtual convention space",
     "people": [],
-    "media": [],
+    "media": [
+      {
+        "thumb": "img/events/VirtualFurence-thumb.jpg",
+        "src": "img/events/VirtualFurence.jpg"
+      }],
     "desc": "",
     "descLong": ""
   },
@@ -348,7 +370,12 @@
         "avatar": "jyanon.jpg"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "thumb": "img/events/EFO_Closing-thumb.jpg",
+        "src": "img/events/EFO_Closing.jpg"
+      }
+    ],
     "desc": "",
     "descLong": ""
   }
